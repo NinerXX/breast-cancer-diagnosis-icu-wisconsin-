@@ -1,7 +1,7 @@
 # Breast Cancer Diagnosis 
 
 ## Introduction
-In this README, we will provide an overview of our breast cancer diagnosis classification project. The primary objective was to develop a robust machine learning model to classify breast tumors as either benign (B) or malignant (M) based on various features extracted from diagnostic images.
+In this README, i will provide an overview of our breast cancer diagnosis classification project. The primary objective was to develop a robust machine learning model to classify breast tumors as either benign (B) or malignant (M) based on various features extracted from diagnostic images.
 
 ## Data
 The dataset used for this project can be accessed at the following path:
